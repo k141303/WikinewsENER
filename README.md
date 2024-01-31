@@ -1,0 +1,2 @@
+# WikinewsENER
+Wikinews記事に対して固有表現抽出アノテーションを施したデータセット。
